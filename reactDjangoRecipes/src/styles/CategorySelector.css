@@ -1,0 +1,22 @@
+.choose-category {
+    display: flex;
+    justify-content: center;
+}
+
+.choose-category p {
+    margin: 5px;
+    font-weight: bold;
+    line-height: 100%;
+    color: brown;
+}
+
+.choose-category a {
+    margin: 5px;
+    font-weight: bold;
+}
+
+@media (width < 400px) {
+    .choose-category {
+        flex-direction: column;
+    }
+}

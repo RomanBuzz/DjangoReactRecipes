@@ -1,0 +1,29 @@
+html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    user-select: none;
+}
+
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family: "PT Sans", Arial, Tahoma, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    color: black;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #24a3f1;
+    text-decoration: underline
+}

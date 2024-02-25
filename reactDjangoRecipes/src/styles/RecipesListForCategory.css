@@ -1,0 +1,17 @@
+.choose-recipe {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.choose-recipe p {
+    margin: 5px;
+    font-weight: bold;
+    line-height: 100%;
+    color: brown;
+}
+
+.choose-recipe a {
+    font-weight: bold;
+    color: blue;
+}
